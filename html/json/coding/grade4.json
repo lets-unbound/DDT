@@ -1,0 +1,181 @@
+{
+  "puzzles": [
+    {
+      "category": "Logical Reasoning",
+      "question": ["If 1/4 of the chickens in a coop are brown","and 3/5 of the brown chickens lay eggs", "what fraction of the chickens in the coop lay eggs?"],
+      "options": [
+      { "text": "1/5", "isImage": false },
+      { "text": "3/20", "isImage": false },
+      { "text": "3/4", "isImage": false },
+      { "text": "3/5", "isImage": false }
+      ],
+      "answer": 3
+    },
+      
+    {
+      "category": "Logical Reasoning",
+      "question": ["A book costs $24, and it is on sale for 30% off.", "How much money will you save if you buy the book on sale?"],
+      "options": [
+      { "text": "$6", "isImage": false },
+      { "text": "$8", "isImage": false },
+      { "text": "$7.20", "isImage": false },
+      { "text": "$16", "isImage": false }
+      ],
+      "answer": 2
+    },
+    {
+      "category": "Logical Reasoning",
+      "question": ["If a pattern of numbers is 1, 4, 9, 16, 25", "what is the next number in the pattern?"],
+      "options":[
+        { "text": "30", "isImage": false },
+        { "text": "36", "isImage": false },
+        { "text": "49", "isImage": false },
+        { "text": "64", "isImage": false }
+      ],
+      "answer": 3
+    },
+
+    {
+      "category": "Logical Reasoning",
+      "question": ["You have a jar with 100 marbles: 40 red, 30 blue, and 30 green.", "If you pick a marble at random", "what is the probability of picking a red marble?"],
+      "options":[
+        { "text": "40%", "isImage": false },
+        { "text": "30%", "isImage": false },
+        { "text": "70%", "isImage": false },
+        { "text": "10%", "isImage": false }
+      ],
+      "answer": 0
+    },
+
+    {
+      "category": "Logical Reasoning",
+      "question":["If John is twice as old as Sarah and Sarah is 8 years old", "how old is John?"],    
+      "options":[
+
+        { "text": "4 years old", "isImage": false },
+        { "text": "12 years old", "isImage": false },
+        { "text": "16 years old", "isImage": false },
+        { "text": "8 years old", "isImage": false }
+      ],
+      "answer": 1
+    },
+      
+    {
+      "category": "Analytical Thinking",
+      "question": ["If you have a rectangular garden with a length of 15 feet and an area of 90 square feet", "what is the width of the garden?"],
+      "options": [
+        { "text": "5 feet", "isImage": false },
+        { "text": "6 feet", "isImage": false },
+        { "text": "9 feet", "isImage": false },
+        { "text": "10 feet", "isImage": false }
+      ],
+      "answer": 1
+    },
+    {
+      "category": "Analytical Thinking",
+      "question": ["A car travels 120 miles in 2 hours.","What is the car's average speed in miles per hour (mph)?"],
+      "options": [
+        { "text": "40 mph", "isImage": false },
+        { "text": "60 mph", "isImage": false },
+        { "text": "80 mph", "isImage": false },
+        { "text": "90 mph", "isImage": false }
+      ],
+      "answer": 1
+    },
+    {
+      "category": "Analytical Thinking",
+      "question": ["If you start with a number, add 7 to it", "multiply the result by 3, and then subtract 5", "what is the final number if you started with 4?"],
+      "options": [
+        { "text": "4", "isImage": false },
+        { "text": "12", "isImage": false },
+        { "text": "16", "isImage": false },
+        { "text": "15", "isImage": false }
+      ],
+      "answer": 2
+    },
+    {
+      "category": "Analytical Thinking",
+      "question": ["Mary has a box of chocolates.","She eats 1/4 of the chocolates on Monday", "and 1/3 of the remaining chocolates on Tuesday.", "How many chocolates are left in the box?"],
+      "options": [
+        { "text": "1/3", "isImage": false },
+        { "text": "1/6", "isImage": false },
+        { "text": "1/2", "isImage": false },
+        { "text": "2/3", "isImage": false }
+      ],
+      "answer": 1
+    },
+    {
+      "category": "Analytical Thinking",
+      "question": ["If a train leaves the station at 9:45 AM", "and arrives at its destination at 2:30 PM", "how long is the train journey in hours and minutes?"],
+      "options": [
+        { "text": "4 hours 45 minutes", "isImage": false },
+        { "text": "4 hours 15 minutes", "isImage": false },
+        { "text": "5 hours 45 minutes", "isImage": false },
+        { "text": "4 hours 35 minutes", "isImage": false }
+      ],
+      "answer": 0
+    },
+    {
+      "category": "Basic Coding Concepts",
+      "question": ["What is the result of the following code?","x = 5","y = 3","z=x+y","print(z)"],
+      "options": [
+        { "text": "2", "isImage": false },
+        { "text": "3", "isImage": false },
+        { "text": "5", "isImage": false },
+        { "text": "8", "isImage": false }
+      ],
+      "answer": 3
+    },
+    {
+      "category": "Basic Coding Concepts",
+      "question": ["What will be the output of this code?","for i in range(3):","print('Hello')"],
+      "options": [
+        { "text": "Hello", "isImage": false },
+        { "text": "HelloHelloHello", "isImage": false },
+        { "text": "H", "isImage": false },
+        { "text": "There will be an error", "isImage": false }
+      ],
+      "answer": 1
+    },      
+    {
+      "category": "Basic Coding Concepts",
+      "question": ["which Operator is used for multiplication in python?"],
+      "options": [
+        { "text": "+", "isImage": false },
+        { "text": "/", "isImage": false },
+        { "text": "*", "isImage": false },
+        { "text": "-", "isImage": false }
+      ],
+      "answer": 2
+    },
+    {
+      "category": "Basic Coding Concepts",
+      "question": ["What is the value of 5//2 in python?"],
+      "options": [
+        { "text": "2.5", "isImage": false },
+        { "text": "2.0", "isImage": false },
+        { "text": "2", "isImage": false },
+        { "text": "3", "isImage": false }
+      ],
+      "answer": 2
+    },
+    {
+      "category": "Basic Coding Concepts",
+      "question": ["In Python, what is the purpose of the pass statement?"],
+      "options": [
+        { "text": "It raises an exception.", "isImage": false },
+        { "text": "It defines a class.", "isImage": false },
+        { "text": "It is a placeholder for future code.", "isImage": false },
+        { "text": "It terminates a loop.", "isImage": false }
+      ],
+      "answer": 2
+    }
+
+  ]
+}
+
+
+
+
+
+

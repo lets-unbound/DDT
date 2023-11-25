@@ -1,0 +1,182 @@
+{
+    "puzzles": [
+      {
+        "category": "Operations And Algebraic Thinking",
+        "question": ["7 + 7 + 7 + 7 = 7 x _____________."],
+        "options": [
+          { "text": "5", "isImage": false },
+          { "text": "4", "isImage": false },
+          { "text": "3", "isImage": false },
+          { "text": "20", "isImage": false }
+        ],
+        "answer": 1
+      },
+      {
+        "category": "Operations And Algebraic Thinking",
+        "question": ["The answer of division is called____________."],
+        "options": [
+          { "text": "dividend", "isImage": false },
+          { "text": "remainder", "isImage": false },
+          { "text": "divisor", "isImage": false },
+          { "text": "quotient", "isImage": false }
+        ],
+        "answer": 3
+      },
+      {
+        "category": "Operations And Algebraic Thinking",
+        "question": ["Princess has 23 pictures","Can she use all the picture to make an array with exactly two equal rows?"],
+        "options": [
+          { "text": "Yes she has enough to make 2 equal rows", "isImage": false },
+          { "text": "No she does not have enough to make 2 equal rows. Each row will get 10 with 3 left over.", "isImage": false },
+          { "text": "Yes she has enough to make 2 equal rows. Each row will have 11 with none left over", "isImage": false },
+          { "text": "No she does not have enough to make 2 equal rows. Each row will get 11 with 1 left over", "isImage": false }
+        ],
+        "answer": 3
+      },
+      {
+        "category": "Number and Operations in Base Ten",
+        "question": ["There are 165 cars in the parking lot","Select the chart that shows 165 rounded to the nearest 10"],
+        "options": [
+          {"text":"1","isImage": true, "image":"https://quizizz.com/media/resource/gs/quizizz-media/quizzes/c530c598-010b-4922-aa74-fbd87355283a?w=900&h=900"},
+          {"text":"2","isImage": true, "image":"https://quizizz.com/media/resource/gs/quizizz-media/quizzes/70a750a6-02a3-42e2-a03f-c78dc7e57d65?w=200&h=200"},
+          {"text":"3","isImage": true, "image":"https://quizizz.com/media/resource/gs/quizizz-media/quizzes/a81a6131-a67b-4109-9a88-7815c899d23a?w=900&h=900"},
+          {"text":"4","isImage": true, "image":"https://quizizz.com/media/resource/gs/quizizz-media/quizzes/8f348afe-ed4b-4b80-8640-42ab7983ec91?w=200&h=200"}
+        ],
+        "answer": 0
+      },
+  
+      {
+        "category": "Number and Operations in Base Ten",
+        "question":["Which is six thousand two hundred, forty-seven written in standard form?"],
+        "options":[
+          { "text": "647", "isImage": false },
+          { "text": "6247", "isImage": false },
+          { "text": "60247", "isImage": false },
+          { "text": "6000+200+40+7", "isImage": false }
+        ],
+        "answer":1
+      },
+      {
+        "category": "Number and Operations-Fraction",
+        "question":["What is the numerator in a fraction?"],
+        "options":[
+          { "text": "The top number in a fraction.", "isImage": false },
+          { "text": "The bottom number in a fraction.", "isImage": false },
+          { "text": "The line separating the part and the whole.", "isImage": false }
+        ],
+        "answer":0
+      },
+      {
+        "category": "Number and Operations-Fraction",
+        "question":["Decide whether the comparison is true or false. Click True or False."],
+        "image":"https://quizizz.com/media/resource/gs/quizizz-media/quizzes/0c0d2709-781c-47b2-a9f8-1159e60bb5c1?w=900&h=900",
+        "options":[
+          { "text": "4/4", "isImage": false },
+          { "text": "2/4", "isImage": false },
+          { "text": "1/4", "isImage": false },
+          { "text": "3/4", "isImage": false }
+        ],
+        "answer":2
+      },
+      {
+        "category": "Measurement and data",
+        "question":["How many people have two or less books in their desk?"],
+        "image":"https://quizizz.com/media/resource/gs/quizizz-media/questions/L2FwcGhvc3RpbmdfcHJvZC9ibG9icy9BRW5CMlVvRE13eUprVlp0cWQ2Q3FpRWJGSFJyaHJyYjVRWHh4STNiZnRBcDYyNFVrRDc0M3ZCelplcUZOT1N5R1FyUTR6Q2hEUjByVXMxUUFXRUZXR3o3d1pDbE1aUngxQ2dDamJhT3JZNE45X2ZrNjEzbW5kTS45eE5GbmhaU1Z1MVZtMENt?w=900&h=900",
+        "options":[
+          { "text": "True", "isImage": false },
+          { "text": "False", "isImage": false }
+        ],
+        "answer":1
+      },
+      {
+        "category": "Measurement and data",
+        "question":["Chantelle starts reading a book at 2:25 p.m. She stops reading the book at 2:47 p.m. How long did Chantelle spend reading?"],
+        "options":[
+          { "text": "12 minutes", "isImage": false },
+          { "text": "22 minutes", "isImage": false },
+          { "text": "23 minutes", "isImage": false },
+          { "text": "69 minutes", "isImage": false }
+        ],
+        "answer":1
+      },
+      {
+        "category": "Measurement and data",
+        "question":["A picture frame is shown below. Each square on the frame has an area of 1 square unit.","How would you find the area of the picture frame?"],
+        "options":[
+          { "text": "Divide 4 and 3, the length and width of the picture frame.", "isImage": false },
+          { "text": "Multiply 4 and 3, the length and width of the picture frame.", "isImage": false },
+          { "text": "Add 4 and 3, the length and width of the picture frame.", "isImage": false },
+          { "text": "Subtract 4 and 3, the length and width of the picture frame.", "isImage": false }
+        ],
+        "answer":1
+      },
+      {
+        "category": "Geometry",
+        "question":["What is this shape?"],
+        "image":"https://quizizz.com/media/resource/gs/quizizz-media/quizzes/fdb1c27d-670f-448d-9591-92a693ac8be2?w=900&h=900",
+        "options":[
+          { "text": "Rectangle", "isImage": false },
+          { "text": "Pentagon", "isImage": false },
+          { "text": "Hexagon", "isImage": false },
+          { "text": "Heptagon", "isImage": false }
+        ],
+        "answer":1
+      },
+
+      {
+        "category": "Geometry",
+        "question": ["Which shape has three sides and can have all sides of different lengths?"],
+        "options": [
+            {"text": "Square"},
+            {"text": "Triangle"},
+            {"text": "Rectangle"}
+        ],
+        "answer": 1
+      },
+    
+
+      {
+        "category": "Geometry",
+        "question":["A solid figure with 6 flat surfaces, all of the faces are squares"],
+        "image":"https://quizizz.com/media/resource/gs/quizizz-media/questions/L2FwcGhvc3RpbmdfcHJvZC9ibG9icy9BRW5CMlVwd3ctelNJXzN2TDVyWTBZQ2dJek43dW5aZkNkVHR2S05OOTl6QUhlVEQ4V3RZMWdJczkxWnotSjY4MDNzYnhkYlhIbEpMMVdCeUgwQ0VDYVphY244X1VKQzlERjNtdjQ0SHM0VGNzNjZlVVBaUGVtTS50U0lZOTRHMUVaQ2RiZ2hK?w=900&h=900",
+        "options":[
+          { "text": "cube", "isImage": false },
+          { "text": "rectangular prism", "isImage": false },
+          { "text": "trangular prism", "isImage": false },
+          { "text": "sqaure based pyramid", "isImage": false }
+        ],
+        "answer":0
+      },
+      {
+        "category": "Geometry",
+        "question":["A circle is __________ figure", "and a sphere is a __________ figure."],
+        "options":[
+          { "text": "3D,3D", "isImage": false },
+          { "text": "3D,2D", "isImage": false },
+          { "text": "2D,3D", "isImage": false },
+          { "text": "2D,2D", "isImage": false }
+        ],
+        "answer":2
+      },
+
+      {
+        "category": "Geometry",
+        "question": ["What is the name of a four-sided polygon with equal-length sides and four right angles?"],
+        "options": [
+            {"text": "Rectangle"},
+            {"text": "Square"},
+            {"text": "Triangle"}
+        ],
+        "answer": 1
+    }
+    
+
+    ]
+  }
+  
+  
+  
+  
+  
+  
+  

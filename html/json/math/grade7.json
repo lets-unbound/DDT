@@ -1,0 +1,183 @@
+{
+    "puzzles": [
+      {
+        "category": "Ratios and Proportional Relationships",
+        "question": ["Solve the proportion"],
+        "image":"https://quizizz.com/media/resource/gs/quizizz-media/questions/L2FwcGhvc3RpbmdfcHJvZC9ibG9icy9BRW5CMlVwRDNacWh3UllDSFZ5OW9TTmpjQmZENWNZWDAwS3hCalJuTVdSQWFBMEs5VHQtd2V2eEhxRXJvcUlHTDNveUp1NmFXdWpYcU5IYWJQSkUtdExFY3huY3p1M09aQS5rT0Npc2I3cXNzMzBoZW5R?w=200&h=200",
+        "options": [
+          { "text": "144", "isImage": false },
+          { "text": "4", "isImage": false },
+          { "text": "6", "isImage": false },
+          { "text": "9", "isImage": false }
+        ],
+        "answer": 1
+      },
+      {
+        "category": "Ratios and Proportional Relationships",
+        "question": ["Does the table represent a proportional relationship?"],
+        "image":"https://quizizz.com/media/resource/gs/quizizz-media/questions/L2FwcGhvc3RpbmdfcHJvZC9ibG9icy9BRW5CMlVxMUUyTHUzdVRuU1lGa1dzNHkxLVFhUmNQTVNDUjJaTmJZU3ZPRDE5Q3YxNGNhRDdfc3MxSGhNeThWSnFPTlJFb3VtcHlTVDg1dVlnWVJ3Rnh2UlVQeExJV1BUVFcxWG1aeTNVbWhUdHhxdS03dFZlWS5RVlpnVmpoaHA3Nk1WS2lo?w=900&h=900",
+        "options": [
+          { "text": "Yes", "isImage": false },
+          { "text": "No", "isImage": false }
+        ],
+        "answer": 2
+      },
+      {
+        "category": "Ratios and Proportional Relationships",
+        "question": ["There were 5 ice cream cones for every 3 brownies sold at the ice cream shop.","If there were 24 brownies sold, how many ice cream cones were sold?"],
+        "options": [
+          { "text": "8", "isImage": false },
+          { "text": "15", "isImage": false },
+          { "text": "40", "isImage": false },
+          { "text": "29", "isImage": false }
+        ],
+        "answer": 2
+      },
+      {
+        "category": "The Number System",
+        "question": ["What is the value of the expression?", "-27 times 1/3"],
+        "options": [
+          { "text": "81", "isImage": false },
+          { "text": "9", "isImage": false },
+          { "text": "-9", "isImage": false },
+          { "text": "-81", "isImage": false }
+        ],
+        "answer": 2
+      },
+      {
+        "category": "The Number System",
+        "question":["What is 1/3 as a decimal?"],
+        "options":[
+          { "text": "0.3", "isImage": false },
+          { "text": "0.333333...", "isImage": false },
+          { "text": "0.666666...", "isImage": false },
+          { "text": "0.13", "isImage": false }
+        ],
+        "answer":1
+      },
+  
+      {
+        "category": "The Number System",
+        "question":["A recipe calls for ¾ cup of sugar.","How many batches can be made from a 5 pound bag of sugar?"],
+        "image":"https://quizizz.com/media/resource/gs/quizizz-media/questions/L2FwcGhvc3RpbmdfcHJvZC9ibG9icy9BRW5CMlVyamlIcVFsbk5TRnVnNlJaRnZBLUtqQmdJRjBiOVV2LUZkenpzQmxZNUo3V3BwTzZlanBzd1kyV2d1ZUFtdVJDS00xWFQ3blVMMlphUVMyb0VVODZSR2JONEJkdy5VS3NoRlhNX2JSUzg0MktC?w=900&h=900",
+        "options":[
+          { "text": "6⅔ batches", "isImage": false },
+          { "text": "3¾ batches", "isImage": false },
+          { "text": "3/20 batches", "isImage": false },
+          { "text": "6½ batches", "isImage": false }
+        ],
+        "answer":0
+      },
+      {
+        "category": "Expressions and Equations",
+        "question":["6z + 3 -4z = 9"],
+        "options":[
+          { "text": "z = 3", "isImage": false },
+          { "text": "z = 60", "isImage": false },
+          { "text": "z = 30", "isImage": false },
+          { "text": "z = 1", "isImage": false }
+        ],
+        "answer":0
+      },
+      {
+        "category": "Expressions and Equations",
+        "question":["Solve  12 - 6y = 24"],
+        "options":[
+          { "text": "2", "isImage": false },
+          { "text": "-2", "isImage": false },
+          { "text": "3", "isImage": false },
+          { "text": "-3", "isImage": false }
+        ],
+        "answer":1
+      },
+      {
+        "category": "Expressions and Equations",
+        "question":["Solve for x:","x + 1/3 = 5/6"],
+        "options":[
+          { "text": "7/6", "isImage": false },
+          { "text": "5/6", "isImage": false },
+          { "text": "1/2", "isImage": false },
+          { "text": "4/3", "isImage": false }
+        ],
+        "answer":2
+      },
+      {
+        "category": "Geometry",
+        "question":["Δ PQR is such that ∠P = ∠Q = ∠R = 60° which of the following is true?"],
+        "options":[
+          {"text":"Δ PQR is equilateral."},
+          {"text":"Δ PQR is acute angled"},
+          {"text":"Both [a] and [b]"},
+          {"text":"Neither [a] nor [b]"}
+        ],
+        "answer":0
+      },
+      {
+        "category": "Geometry",
+        "question":["Find the area of the circle"],
+        "image":"https://quizizz.com/media/resource/gs/quizizz-media/questions/L2FwcGhvc3RpbmdfcHJvZC9ibG9icy9BRW5CMlVwUGpLaGxYZ2R1N2JZbU9UZ0c1a0psYlVPWkVqNzdhOXJwRGRqLWsycjRHSVpzdE1nMDYtWDR1T2Fnc21sclVNRFB5b3hmSDB2TjRtRHdUdERpcEpLN0paUlFTUS4xd0c2TjJFVW51Vmd1Njdt?w=900&h=900",
+        "options":[
+          {"text":"56.52"},
+          {"text":"254.34"},
+          {"text":"1017.36"},
+          {"text":"113.04"}
+        ],
+        "answer":1
+      },
+      {
+        "category": "Geometry",
+        "question":["What is supplementary?"],
+        "options":[
+          {"text":"When angles add up to 90°"},
+          {"text":"When angles add up to 179°"},
+          {"text":"When angles add up to 180°"},
+          {"text":"When angles add up to 360°"}
+        ],
+        "answer":2
+      },
+      {
+        "category": "Statistics and Probability",
+        "question":["Cole spun the spinner twice. What’s the probability of the spinner landing on the 3 twice in a row?"],
+        "image":"https://quizizz.com/media/resource/gs/quizizz-media/questions/L2FwcGhvc3RpbmdfcHJvZC9ibG9icy9BRW5CMlVyLVdXc3ZtTkVpb2RZQ2FCbEt6R2JMRlppTzIyNjZRY1lsRTg3c0VFbGFwQm1ldmxsN0hFbTlCd0YzSkdGVTR2dy1oenduQVQ4LTdMY3JyS25RSFF5a1pNZkk4aUZSc2l5ZmZfRUo0d3Q1MG81dE4wMC42SkhiMFBvWDBkMHM1T2Q1?w=900&h=900",
+        "options":[
+          {"text":"1/4","image":"false"},
+          {"text":"1/36", "isImage": "false"},
+          {"text":"1/6", "isImage": "false"},
+          {"text":"2/3", "isImage": "false"}
+        ],
+        "answer":1
+      },
+      {
+        "category": "Statistics and Probability",
+        "question":["Ms. Sajewski surveyed her students on the number of book they read last summer. Which is NOT true?"],
+        "image":"https://quizizz.com/media/resource/gs/quizizz-media/questions/L2FwcGhvc3RpbmdfcHJvZC9ibG9icy9BRW5CMlVxdzdsYnpKZzdpVzVtel9jQlZNTW9XeHF3S2VYZmVVcGswOERnNzFXejk4dE5IRmZWTDdId1NZMEJmOVo0VkgyUXE3bkpYSURJLUxxZmlDenBWWEwwZTc3NWNPZmllallHcHRSZzVmSmFSTllRV0dGdy5QdkdFSjFTRmZNTm0tbXRf?w=900&h=900",
+        "options":[
+          {"text":"The mode number of books read is one"},
+          {"text":"The median number of books read is 1.5"},
+          {"text":"Ms. Sajewski surveyed 20 students"},
+          {"text":"The mean number of books read is 3.25"}
+        ],
+        "answer":3
+      },
+      {
+        "category": "Statistics and Probability",
+        "question":["The stem-and-leaf plots show the scores of two classes on the Chapter 6 Test.","Which statement about the data is NOT true?"],
+        "image":"https://quizizz.com/media/resource/gs/quizizz-media/questions/L2FwcGhvc3RpbmdfcHJvZC9ibG9icy9BRW5CMlVveDlfbVhaMGdIYnUzc3h3Y3hTQl9uQzlHR1J5S1dOODVKUzJ4RTQzYU5mdmI3MDdsSHFSX3d2V2xPdENRSDNzSkk0ZjYzb2FLTUZQV2FVbVNmUk10UzRpMGdwRS1HQ2JTWTFsYTNaVmMxSWtycVVENC5kLTFHaTJfd1ZZTWtldjVl?w=900&h=900",
+        "options":[
+          {"text":"The mode of Class A is 78","image":"false"},
+          {"text":"The range of Class B is higher than the range of Class A","image":"false"},
+          {"text":"Class A's mean is 79","image":"false"},
+          {"text":"The mode of Class B is 95","image":"false"}
+        ],
+        "answer":1
+      }
+
+    ]
+  }
+  
+  
+  
+  
+  
+  
+  

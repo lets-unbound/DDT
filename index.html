@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>IQ Puzzles</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet" 
+    integrity="sha384-9ndCyUaIbzAi2FUVXJi0CjmCapSmO7SnpJef0486qhLnuZ2cdeRhO02iuK6FUUVM" crossorigin="anonymous">
+    
+    <link rel="stylesheet" type="text/css" href="./style.css">
+    <link rel="stylesheet" href="./main.css">
+    <link rel="stylesheet" href="./media.css">
+  
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.9.4/Chart.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/chartjs-plugin-datalabels/2.2.0/chartjs-plugin-datalabels.min.js"></script>
+</head>
+<body>
+    <script src="./script.js"></script>
+    <main>
+        <nav class="navbar navbar-expand-lg navbar-light" style="background-color: #413ADA; box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.228); align-items: center; align-self: center;">
+          <div class="container-fluid" style="align-items: center; align-self: center;">
+            <a class="a" href="#"><img class="navbar-brand img2" src="./images/4.png" alt=""></a>
+            <button style="background-color: aliceblue; border: 2px black solid;" class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+              <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+              
+               <div class="d-flex justify-content-center" style="text-align: center; width: 80%; margin: 0;">
+                  <h1>Lets Unbound Demo Diagnostics</h1>
+               </div>
+            </div>
+          </div>
+        </nav>
+    </main>
+    <section>
+        <div id="main-div">
+            <div id="d">
+                <img class="i" src="./images/img2.png" alt="img2">
+                <button class="b"><a href="./html/main.html" id="c" class="b-link">Coding</a></button>
+            </div>
+            <div id="d"> 
+                <img class="i" src="./images/img3.png" alt="img3">
+                <button class="b"><a href="./html/main.html" id="m" class="b-link">Math</a></button>
+            </div>
+            <div id="d">
+                <img class="i" src="./images/img7.png" alt="img4">
+                <button class="b"><a href="./html/main.html" id="p" class="b-link">PublicSpeaking</a></button>
+            </div>
+
+        </div>
+    </section>
+
+    <script>
+        const links = document.querySelectorAll('.b-link');
+
+        links.forEach(link => {
+            link.addEventListener('click', (event) => {
+                const testType = link.textContent;
+                const encodedTestType = encodeURIComponent(testType);
+                const newUrl = `./html/main.html?test=${encodedTestType}`;
+                event.preventDefault(); // Prevent the default link behavior
+                window.location.href = newUrl;
+            });
+        });
+    </script>
+</body>
+</html>

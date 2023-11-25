@@ -1,0 +1,185 @@
+{
+    "puzzles": [
+      {
+        "category": "Operations And Algebraic Thinking",
+        "question": ["Seven saw 8 rabbits in a garden. When she walked closer to the garden, 3 rabbits hopped away.",
+         "How many rabbits were left?"],
+        "options": [
+          { "text": "11", "isImage": false },
+          { "text": "8", "isImage": false },
+          { "text": "5", "isImage": false },
+          { "text": "25", "isImage": false }
+        ],
+        "answer": 2
+      },
+      {
+        "category": "Operations And Algebraic Thinking",
+        "question": ["Sa'Nyla likes to grow flowers in her garden. She has 5 daisies. She has 6 tulips. She has 4 sunflowers.",
+                    "Which number sentence shows how many flowers Sa'Nyla has in all?"],
+        "options": [
+          { "text": "5 + 6 = 11", "isImage": false },
+          { "text": "6 + 4 = 10", "isImage": false },
+          { "text": "5 + 10 =15", "isImage": false },
+          { "text": "2 + 13 = 15", "isImage": false }
+        ],
+        "answer": 2
+      },
+      {
+        "category": "Operations And Algebraic Thinking",
+        "question": ["If 8 + 3 = 11 is true.", "What number will complete this number sentence?"],
+        "options": [
+          {"text": "8"},
+          {"text": "3"},
+          {"text": "14"},
+          {"text": "45"}
+        ],
+        "answer": 0
+      },
+      {
+        "category": "Number and Operations in Base Ten",
+        "question": ["Puzzle"],
+        "image": "https://quizizz.com/media/resource/gs/quizizz-media/questions/L2FwcGhvc3RpbmdfcHJvZC9ibG9icy9BRW5CMlVwczVtY1J1NVQyb3BTZzM4cnZpRFh6anJVSzVjU01VZVV2S2xyeC1wczI3aVFpc1FZZkNINTNTTkNuR0xsbEVFOVhWbkZRVFN1Y21KVEhacnU5eHR2WDBBM002QS5WNWlsZXlwZFVuZzFQVG1T?w=900&h=900",
+        "options": [
+          {"text": "48"},
+          {"text": "42"},
+          {"text": "480"},
+          {"text": "56"}
+        ],
+        "answer": 0
+      },
+      {
+        "category": "Number and Operations in Base Ten",
+        "question": ["_____ and 80 make 89."],
+        "question1":"print('A')",
+        "options": [
+          {"text": "9"},
+          {"text": "8"},
+          {"text": "1"},
+          {"text": "0"}
+        ],
+        "answer": 0
+      },
+      {
+        "category": "Number and Operations in Base Ten",
+        "question": ["Which sentence is true about the picture?"],
+        "image": "https://quizizz.com/media/resource/gs/quizizz-media/quizzes/342d1164-eb9f-4ba7-a9bc-ea000d2558a5?w=900&h=900",
+        "options": [
+          {"text": "There are 5 tens and 9 ones."},
+          {"text": "There are 5 tens and 8 ones."},
+          {"text": "There are 6 tens and 8 ones."},
+          {"text": "There are 6 tens and 9 ones."}
+        ],
+        "answer": 1
+      },
+  
+      {
+        "category": "Measurement and Data",
+        "question":["Which ax is the longest?"],
+        "image":"https://quizizz.com/media/resource/gs/quizizz-media/quizzes/9a7dfecc-27e9-4a47-9936-efe72e310d88?w=900&h=900",
+        "options":[
+          {"text":"a"},
+          {"text":"b"},
+          {"text":"c"}
+        ],
+        "answer":1
+      },
+      {
+        "category": "Measurement and Data",
+        "question":["Order the beans shortest to tallest."],
+        "image":"https://quizizz.com/media/resource/gs/quizizz-media/quizzes/e7d9a918-6657-47b1-a1e2-6d52234ec5f9?w=900&h=900",
+        "options":[
+          {"text":"a, b, c"},
+          {"text":"c, a, b"},
+          {"text":"b, a, c"}
+        ],
+        "answer":1
+      },
+      {
+        "category": "Measurement and Data",
+        "question":["1 year = __________ days"],
+        "options":[
+          {"text":"360"},
+          {"text":"362"},
+          {"text":"365"},
+          {"text":"370"}
+        ],
+        "answer":2
+      },
+      {
+        "category": "Measurement and Data",
+        "question":["How many tortoises are there in this picture?"],
+        "image":"https://quizizz.com/media/resource/gs/quizizz-media/quizzes/a9d7bec4-58b2-4e49-bfb7-6eda81d30553?w=900&h=900",
+        "options":[
+          {"text":"3"},
+          {"text":"2"},
+          {"text":"1"},
+          {"text":"5"}
+        ],
+        "answer":0
+      },
+      {
+        "category": "Measurement and Data",
+        "question":["How many seconds in a minute?"],
+        "options":[
+          {"text":"100"},
+          {"text":"30"},
+          {"text":"60"},
+          {"text":"120"}
+        ],
+        "answer":2
+      },
+      {
+        "category": "Geometry",
+        "question":["How many corners does an square have"],
+        "options":[
+          {"text":"3"},
+          {"text":"5"},
+          {"text":"6"},
+          {"text":"4"}
+        ],
+        "answer":3
+      },
+      {
+        "category": "Geometry",
+        "question":["How many edges does an cylinder have?"],
+        "options":[
+          {"text":"4"},
+          {"text":"2"},
+          {"text":"3"},
+          {"text":"0"}
+        ],
+        "answer":1
+      },
+
+      {
+        "category": "Geometry",
+        "question":["How many faces does an cone have?"],
+        "options":[
+          {"text":"1"},
+          {"text":"3"},
+          {"text":"2"},
+          {"text":"4"}
+        ],
+        "answer":0
+      },
+      {
+        "category": "Geometry",
+        "question":["A cuboid has how many sides?"],
+        "options":[
+          {"text":"10"},
+          {"text":"8"},
+          {"text":"12"},
+          {"text":"6"}
+        ],
+        "answer":2
+      }
+
+    ]
+  }
+  
+  
+  
+  
+  
+  
+  

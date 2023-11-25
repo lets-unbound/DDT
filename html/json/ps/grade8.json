@@ -1,0 +1,177 @@
+{
+    "puzzles": [
+      {
+        "category": "The Number System",
+        "question": ["The numbers 1, 2, 3, 4, ... make up the entire set of numbers called the"],
+        "options": [
+          { "text": "natural (counting) numbers", "isImage": false },
+          { "text": "whole numbers", "isImage": false },
+          { "text": "integers", "isImage": false },
+          { "text": "rational numbers", "isImage": false }
+        ],
+        "answer": 0
+      },
+      {
+        "category": "The Number System",
+        "question": ["The numbers ..., -4, -3, -2, -1, 0, 1, 2, 3, 4, ... make up the entire set of numbers called the"],
+        "options": [
+          { "text": "natural (counting) numbers", "isImage": false },
+          { "text": "whole numbers", "isImage": false },
+          { "text": "integers", "isImage": false },
+          { "text": "rational numbers", "isImage": false }
+        ],
+        "answer": 2
+      },
+      {
+        "category": "The Number System",
+        "question": ["√7 is considered"],
+        "options": [
+          { "text": "a whole number", "isImage": false },
+          { "text": "a counting number", "isImage": false },
+          { "text": "an irrational number", "isImage": false },
+          { "text": "a rational number", "isImage": false }
+        ],
+        "answer": 2
+      },
+      {
+        "category": "Expressions and Equations",
+        "question": ["The like terms of the following are"],
+        "options": [
+          { "text": "-5b,9ba", "isImage": false },
+          { "text": "ab,-5b", "isImage": false },
+          { "text": "ab,-3a", "isImage": false },
+          { "text": "ab,9ba", "isImage": false }
+        ],
+        "answer": 3
+      },
+      {
+        "category": "Expressions and Equations",
+        "question":["The product of 5x and 3y is:"],
+        "options":[
+          { "text": "5xy", "isImage": false },
+          { "text": "2xy", "isImage": false },
+          { "text": "15xy", "isImage": false },
+          { "text": "xy", "isImage": false }
+        ],
+        "answer":2
+      },
+  
+      {
+        "category": "Expressions and Equations",
+        "question":["What is the definition of function?"],
+        "options":[
+          { "text": "Monomial", "isImage": false },
+          { "text": "Binomial", "isImage": false },
+          { "text": "Trinomial", "isImage": false },
+          { "text": "None of the above", "isImage": false }
+        ],
+        "answer":0
+      },
+      {
+        "category": "Functions",
+        "question":["What is the definition of function?"],
+        "options":[
+          { "text": "Has inputs and outputs", "isImage": false },
+          { "text": "Every input has only ONE output", "isImage": false },
+          { "text": "Inputs have different outputs every time", "isImage": false },
+          { "text": "x-values and y-values", "isImage": false }
+        ],
+        "answer":1
+      },
+      {
+        "category": "Functions",
+        "question":["Is this mapping a function or not a function?"],
+        "image":"https://quizizz.com/media/resource/gs/quizizz-media/questions/L2FwcGhvc3RpbmdfcHJvZC9ibG9icy9BRW5CMlVxdVFOSzBNMHNWdHkyYjBOcjZpaVZoZFZuUDVFOElKVTJpelNkcWFmU19iaFByU1daMUhIUzEteXNMX1hab0JLdFE1RUVWS2VmYW1uWXdvTFJxMGFfanhHZVAwdy5xSmRQTWo5bFJLNGpkWG4t?w=200&h=200",
+        "options":[
+          { "text": "Function", "isImage": false },
+          { "text": "Not a Function", "isImage": false }
+        ],
+        "answer":1
+      },
+      {
+        "category": "Functions",
+        "question":["For the function {(0,1), (1,-3), (2,-4), (-4,1)}, write the domain and range."],
+        "options":[
+          {"text":"D: {1, -3, -4,},R: {0, 1, 2, -4}"},
+          {"text":"D:{0, 1, 2, -4},R:{1, -3, -4}"},
+          {"text":"D:{0, 1, 2, 3, 4},R:{1, -3, -4}"}
+        ],
+        "answer":1
+      },
+      {
+        "category": "Geometry",
+        "question":["What is the symbol for congruent?"],
+        "options":[
+          {"text":"≅"},
+          {"text":"⊥"},
+          {"text":"∥"},
+          {"text":"≡"}
+        ],
+        "answer":0
+      },
+      {
+        "category": "Geometry",
+        "question":["What is the formula for volume of a CYLINDER?"],
+        "options":[
+          {"text":"V = π r²"},
+          {"text":"V = π r² h"},
+          {"text":"V =  ⅓ π r² h"},
+          {"text":"V =  ⅓ L W H"}
+        ],
+        "answer":1
+      },
+      {
+        "category": "Geometry",
+        "question":["solve for c"],
+        "image":"https://quizizz.com/media/resource/gs/quizizz-media/questions/L2FwcGhvc3RpbmdfcHJvZC9ibG9icy9BRW5CMlVyUkVVR2hpZ2tuOWt1UkhKREhNUnFhNGtpVnVVc3RfRWxmV1c3Tzh3NXRsNXRyQ2pXNzYybGV5SE5ROUZjcXRBdXlZUnpIZE9VRUJzUXdqYWEyT2lCbVFuRFllcUtBbGlvZFdXUmM1R2RocUlwN3NTNC5saV9xRGRSRl9fcFF1VmhF?w=900&h=900",
+        "options":[
+          {"text":"7"},
+          {"text":"9"},
+          {"text":"4"},
+          {"text":"13"}
+        ],
+        "answer":3
+      },
+      {
+        "category": "Statistics and Probability",
+        "question":["What is a value called when it is much greater or lesser than most of the other values in the data set? "],
+        "options":[
+          {"text":"Cluster"},
+          {"text":"Gap"},
+          {"text":"Outlier"},
+          {"text":"Point"}
+        ],
+        "answer":2
+      },
+      {
+        "category": "Statistics and Probability",
+        "question":["When a scatter plot has a trend that is linear, you can estimate the equation for the... "],
+        "options":[
+          {"text":"Line of best fit "},
+          {"text":"Slope"},
+          {"text":"y-intercept"},
+          {"text":"None of the above"}
+        ],
+        "answer":0
+      },
+      {
+        "category": "Statistics and Probability",
+        "question":["A jar contains 1 blue marble, 11 yellow marbles, and 8 green marbles. What is the probability of randomly choosing a blue marble, replacing it, and then choosing a blue marble again?"],
+        "options":[
+          {"text":"1/400","image":"false"},
+          {"text":"1/200","image":"false"},
+          {"text":"1/100","image":"false"},
+          {"text":"1/20","image":"false"}
+        ],
+        "answer":0
+      }
+
+    ]
+  }
+  
+  
+  
+  
+  
+  
+  

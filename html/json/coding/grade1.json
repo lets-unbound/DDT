@@ -1,0 +1,178 @@
+{
+    "puzzles": [
+      {
+        "category": "Logical Reasoning",
+        "question": ["Which shape is round?"],
+        "options": [
+          { "text": "Square", "isImage": false },
+          { "text": "Circle", "isImage": false },
+          { "text": "Triangle", "isImage": false },
+          { "text": "Rectangle", "isImage": false }
+        ],
+        "answer": 1
+      },
+      {
+        "category": "Logical Reasoning",
+        "question": ["Which item doesn't belong in the group?"],
+        "options": [
+          { "text": "Apple", "isImage": false },
+          { "text": "Banana", "isImage": false },
+          { "text": "Carrot", "isImage": false },
+          { "text": "Table", "isImage": false }
+        ],
+        "answer": 3
+      },
+      {
+        "category": "Logical Reasoning",
+        "question":[ "Which color is made by mixing blue and yellow?"],
+        "options": [
+          { "text": "Red", "isImage": false },
+          { "text": "Green", "isImage": false },
+          { "text": "Orange", "isImage": false },
+          { "text": "Purple", "isImage": false }
+        ],
+        "answer": 1
+      },
+      {
+        "category": "Logical Reasoning",
+        "question": ["What is the opposite of 'hot'?"],
+        "options": [
+          { "text": "Cold", "isImage": false },
+          { "text": "Fast", "isImage": false },
+          { "text": "Big", "isImage": false },
+          { "text": "Tall", "isImage": false }
+        ],
+        "answer": 0
+      },
+      {
+        "category": "Logical Reasoning",
+        "question": ["Which animal can fly?"],
+        "options": [
+          { "text": "Elephant", "isImage": false },
+          { "text": "Dog", "isImage": false },
+          { "text": "Bird", "isImage": false },
+          { "text": "Horse", "isImage": false }
+        ],
+        "answer": 2
+      },            
+      {
+        "category": "Analytical Thinking",
+        "question": ["If you have 3 red balloons and 2 blue balloons, how many balloons do you have in total?"],
+        "options": [
+          { "text": "3", "isImage": false },
+          { "text": "2", "isImage": false },
+          { "text": "5", "isImage": false },
+          { "text": "6", "isImage": false }
+        ],
+        "answer": 2
+      },
+      {
+        "category": "Analytical Thinking",
+        "question": ["Which shape has three sides?"],
+        "options": [
+          { "text": "Square", "isImage": false },
+          { "text": "Circle", "isImage": false },
+          { "text": "Triangle", "isImage": false },
+          { "text": "Rectangle", "isImage": false }
+        ],
+        "answer": 2
+      },
+      {
+        "category": "Analytical Thinking",
+        "question": ["Which object is used for writing and drawing?"],
+        "options": [
+          { "text": "Book", "isImage": false },
+          { "text": "Pencil", "isImage": false },
+          { "text": "Basketball", "isImage": false },
+          { "text": "Plate", "isImage": false }
+        ],
+        "answer": 1
+      },
+      {
+        "category": "Analytical Thinking",
+        "question": ["Which of these is a type of fruit?"],
+        "options": [
+          { "text": "Chair", "isImage": false },
+          { "text": "Orange", "isImage": false },
+          { "text": "Car", "isImage": false },
+          { "text": "Ball", "isImage": false }
+        ],
+        "answer": 1
+      },
+      {
+        "category": "Analytical Thinking",
+        "question": ["If you have 2 apples and you eat one, how many apples do you have left?"],
+        "options": [
+          { "text": "0", "isImage": false },
+          { "text": "1", "isImage": false },
+          { "text": "2", "isImage": false },
+          { "text": "3", "isImage": false }
+        ],
+        "answer": 1
+      },                  
+      {
+        "category": "Basic Coding Concepts",
+        "question": ["What do you call a set of instructions that a computer follows?"],
+        "options": [
+          { "text": "Recipe", "isImage": false },
+          { "text": "Story", "isImage": false },
+          { "text": "Song", "isImage": false },
+          { "text": "Code", "isImage": false }
+        ],
+        "answer": 3
+      },
+      {
+        "category": "Basic Coding Concepts",
+        "question": ["If you want a computer to add two numbers, what operation should you use?"],
+        "options": [
+          { "text": "Subtract", "isImage": false },
+          { "text": "Multiply", "isImage": false },
+          { "text": "Divide", "isImage": false },
+          { "text": "Add", "isImage": false }
+        ],
+        "answer": 3
+      },
+      {
+        "category": "Basic Coding Concepts",
+        "question": ["What do you call a small piece of code that can be reused in different programs?"],
+        "options": [
+          { "text": "Script", "isImage": false },
+          { "text": "Function", "isImage": false },
+          { "text": "Variable", "isImage": false },
+          { "text": "Loop", "isImage": false }
+        ],
+        "answer": 1
+      },      
+      {
+        "category": "Basic Coding Concepts",
+        "question": ["What is the process of finding and fixing errors in code called?"],
+        "options": [
+          { "text": "Debugging", "isImage": false },
+          { "text": "Running", "isImage": false },
+          { "text": "Compiling", "isImage": false },
+          { "text": "Coding", "isImage": false }
+        ],
+        "answer": 0
+      },
+      {
+        "category": "Basic Coding Concepts",
+        "question": ["What does the computer speak?"],
+        "options": [
+          { "text": "Human language", "isImage": false },
+          { "text": "Machine language", "isImage": false },
+          { "text": "Animal Language", "isImage": false },
+          { "text": "None of these", "isImage": false }
+        ],
+        "answer": 0
+      }
+
+
+    ]
+  }
+  
+  
+  
+  
+  
+  
+  

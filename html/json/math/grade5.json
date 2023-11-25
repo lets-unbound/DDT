@@ -1,0 +1,183 @@
+{
+    "puzzles": [
+      {
+        "category": "Operations And Algebraic Thinking",
+        "question": ["A pattern of ordered pairs is shown","(0, 1), (2, 4), (4, 7),(6, 10)","The pattern continues.", "What is the eighth ordered pair in the pattern?"],
+        "options": [
+          { "text": "(8,13)", "isImage": false },
+          { "text": "(14,18)", "isImage": false },
+          { "text": "(14,22)", "isImage": false },
+          { "text": "(16,19)", "isImage": false }
+        ],
+        "answer": 2
+      },
+      {
+        "category": "Operations And Algebraic Thinking",
+        "question": ["(7 + 15) x (38 + 15)"],
+        "options": [
+          { "text": "The difference between 7 and 15 plus the difference between 38 and 15", "isImage": false },
+          { "text": "The product of 7 and 38 plus 15", "isImage": false },
+          { "text": "The sum of 7 and 15 times the sum of 38 and 15", "isImage": false },
+          { "text": "The product of 7 and 15 times the product of 38 and 15", "isImage": false }
+        ],
+        "answer": 2
+      },
+      
+      {
+        "category": "Number and Operations in Base Ten",
+        "question":["10⁶"],
+        "options":[
+          { "text": "1,000,000", "isImage": false },
+          { "text": "100,000", "isImage": false },
+          { "text": "10,000", "isImage": false },
+          { "text": "1,000", "isImage": false }
+        ],
+        "answer":0
+      },
+  
+      {
+        "category": "Number and Operations-Fractions",
+        "question":["Five Friends Shared 1/5 kilogram of nuts equally.","What fraction of kilogram of nuts did each friend eat"],
+        "options":[
+          { "text": "1/5", "isImage": false },
+          { "text": "1/10", "isImage": false },
+          { "text": "1/15", "isImage": false },
+          { "text": "1/25", "isImage": false }
+        ],
+        "answer":3
+      },
+      {
+        "category": "Number and Operations-Fractions",
+        "question":["1/4 + 2/3"],
+        "options":[
+          { "text": "3/12", "isImage": false },
+          { "text": "3/4", "isImage": false },
+          { "text": "11/12", "isImage": false },
+          { "text": "3/7", "isImage": false }
+        ],
+        "answer":2
+      },
+      {
+        "category": "Number and Operations-Fractions",
+        "question":["What is the value of the expression 1/7 ÷ 5?"],
+        "options":[
+          { "text": "1/35", "isImage": false },
+          { "text": "1/12", "isImage": false },
+          { "text": "5/7", "isImage": false },
+          { "text": "6/7", "isImage": false }
+        ],
+        "answer":0
+      },
+      {
+        "category": "Measurement and Data",
+        "question":["The correct formula for finding the volume of a rectangular box with", "length (l), width (w), and height (h) is _______."],
+        "options":[
+          { "text": "V = l x w x h", "isImage": false },
+          { "text": "V = l x w + h", "isImage": false },
+          { "text": "V = w x h + l", "isImage": false },
+          { "text": "V = l + w + h", "isImage": false }
+        ],
+        "answer":0
+      },
+      {
+        "category": "Measurement and Data",
+        "question":["Selena's favorite basketball player is 6 feet 8 inches tall.","How tall is Selena's favorite basketball player in inches?"],
+        "options":[
+          {"text":"68 inches"},
+          {"text":"76 inches"},
+          {"text":"80 inches"},
+          {"text":"84 inches"}
+        ],
+        "answer":2
+      },
+      {
+        "category": "Measurement and Data",
+        "question":[" How many students read fewer than three books?"],
+        "image":"https://quizizz.com/media/resource/gs/quizizz-media/quizzes/ee5ca992-0e95-4d7e-99c6-0a2ec3facfb7?w=200&h=200",
+        "options":[
+          {"text":"5 students"},
+          {"text":"7 students"},
+          {"text":"2 students"},
+          {"text":"3 students"}
+        ],
+        "answer":0
+      },
+      {
+        "category": "Geometry",
+        "question":["Which triangle is this?"],
+        "image":"https://quizizz.com/media/resource/gs/quizizz-media/quizzes/2271f4c4-faec-4c8d-a99c-e630b46f3e21?w=900&h=900",
+        "options":[
+          {"text":"Right angled triangle"},
+          {"text":"Acute angled triangle"},
+          {"text":"Obtuse angled triangle"},
+          {"text":"Equilateral angled triangle"}
+        ],
+        "answer":2
+      },
+      {
+        "category": "Geometry",
+        "question":["The coordinates for the origin in the coordinate plane are________?"],
+        "options":[
+          {"text":"(1,1)"},
+          {"text":"(0,0)"},
+          {"text":"(0,1)"},
+          {"text":"(1,0)"}
+        ],
+        "answer":1
+      },
+      {
+        "category": "Geometry",
+        "question":["What is the ordered pair of point E?"],
+        "image":"https://quizizz.com/media/resource/gs/quizizz-media/questions/L2FwcGhvc3RpbmdfcHJvZC9ibG9icy9BRW5CMlVva085M1FZT1hvRDh1SFkxZVp5SzBlQXdhUF9Tc2xaYUJzSGI5MVZWbWVZb1dBdzJIUVZrVS1LdTBtenQ3YjlIbjVaUm41MElmbFlQX0cwc2MxdGNwQkdkYm95cjhhOUJhMzNJVXR2WUFGcDl2Q1hndy5VSU5RRDJreFZBeVg1LXdK?w=900&h=900",
+        "options":[
+          {"text":"(2,5)"},
+          {"text":"(5,2)"},
+          {"text":"(-5,2)"},
+          {"text":"(5,-2)"}
+        ],
+        "answer":1
+      },
+      {
+        "category": "Geometry",
+        "question": ["What is the name of a polygon with eight sides?"],
+        "options": [
+            {"text": "Hexagon"},
+            {"text": "Octagon"},
+            {"text": "Decagon"}
+        ],
+        "answer": 1
+      },
+    
+      {
+        "category": "Geometry",
+        "question":[""],
+        "image":"https://quizizz.com/media/resource/gs/quizizz-media/quizzes/8a4145a0-e56b-4c62-bf9e-fd8db211c4f8?w=900&h=900",
+        "options":[
+          {"text":"110"},
+          {"text":"98"},
+          {"text":"122"},
+          {"text":"76"}
+        ],
+        "answer":2
+      },
+      {
+        "category": "Geometry",
+        "question": ["What is the sum of the angles in a triangle?"],
+        "options": [
+            {"text": "90 degrees"},
+            {"text": "180 degrees"},
+            {"text": "360 degrees"}
+        ],
+        "answer": 1
+    }
+    
+
+    ]
+  }
+  
+  
+  
+  
+  
+  
+  

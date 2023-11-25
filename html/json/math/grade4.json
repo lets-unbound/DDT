@@ -1,0 +1,183 @@
+{
+    "puzzles": [
+      {
+        "category": "Operations And Algebraic Thinking",
+        "question": ["Jack needs 5 folders for school.  He finds some that cost $2 for a pack of 3.  How much will he need to spend on folders?"],
+        "options": [
+          { "text": "$4", "isImage": false },
+          { "text": "$2", "isImage": false },
+          { "text": "$7", "isImage": false },
+          { "text": "$8", "isImage": false }
+        ],
+        "answer": 0
+      },
+      {
+        "category": "Operations And Algebraic Thinking",
+        "question": ["All of the fourth graders at Mountain View Elementary School are going on a field trip.","Each bus can fit 52 students.  How many buses are needed for the 59 girls and 42 boys going?"],
+        "options": [
+          { "text": "2 Buses", "isImage": false },
+          { "text": "1 Buses", "isImage": false },
+          { "text": "3 Buses", "isImage": false },
+          { "text": "4 Buses", "isImage": false }
+        ],
+        "answer": 0
+      },
+      {
+        "category": "Number and Operations in Base Ten",
+        "question": ["Terry has 3 times as many siblings as Paul.  If Paul has 1 sibling, how many siblings does Terry have?"],
+        "options": [
+          { "text": "3", "isImage": false },
+          { "text": "1", "isImage": false },
+          { "text": "0", "isImage": false },
+          { "text": "4", "isImage": false }
+        ],
+        "answer": 0
+      },
+      {
+        "category": "Number and Operations in Base Ten",
+        "question": ["There are 594 children participating in a county science fair.","They are put into groups of six children.","How many groups will participate?"],
+        "options": [
+          { "text": "60", "isImage": false },
+          { "text": "98", "isImage": false },
+          { "text": "99", "isImage": false },
+          { "text": "150", "isImage": false }
+        ],
+        "answer": 2
+      },
+      {
+        "category": "Number and Operations in Base Ten",
+        "question":["Which choice is equal to 462?"],
+        "options":[
+          { "text": "3 hundreds, 16 tens, and 2 ones", "isImage": false },
+          { "text": "3 hundreds, 6 tens, and 2 ones", "isImage": false },
+          { "text": "4 hundreds and 62 tens", "isImage": false },
+          { "text": "4 hundreds, 60 tens, and 2 ones", "isImage": false }
+        ],
+        "answer":0
+      },
+  
+      {
+        "category": "Number and Operations in Base Ten",
+        "question":["There are 1,829 students at a middle school.","568 students are in 6th grade.","629 students are in 7th grade.","The rest of the students are in 8th grade.","How many students are in 8th grade?"],
+        "options":[
+          { "text": "622 students", "isImage": false },
+          { "text": "632 students", "isImage": false },
+          { "text": "772 students", "isImage": false },
+          { "text": "1197 students", "isImage": false }
+        ],
+        "answer":1
+      },
+      {
+        "category": "Number and Operations-Fraction",
+        "question":["7½ + 2½"],
+        "options":[
+          { "text": "9½", "isImage": false },
+          { "text": "10½", "isImage": false },
+          { "text": "10", "isImage": false },
+          { "text": "5", "isImage": false }
+        ],
+        "answer":2
+      },
+      {
+        "category": "Number and Operations-Fraction",
+        "question":["Boris ordered a pizza.","For lunch he ate 5/8 of the pizza and for dinner he ate 1/8 of the pizza.","How much pizza does he have left?"],
+        "image":"https://quizizz.com/media/resource/gs/quizizz-media/questions/L2FwcGhvc3RpbmdfcHJvZC9ibG9icy9BRW5CMlVvcDk5SWg2UmV3SE0xdHRWSmgwVEdNakNWWjZ0Nlp4MkY3MUpJRDlWdDJIU2xhYlZScUV0cHhzWDlmVXVHeHVzN05CWnVJWVlTOG1CUDhpaUw5TjJzUUZIX1NBdy5LRi1jUnhYWUVwTDRrZTJD?w=900&h=900",
+        "options":[
+          { "text": "2/8", "isImage": false },
+          { "text": "4/8", "isImage": false },
+          { "text": "6/8", "isImage": false },
+          { "text": "1/8", "isImage": false }
+        ],
+        "answer":0
+      },
+      {
+        "category": "Number and Operations-Fraction",
+        "question":["We ordered 12 sandwiches for dinner.","⅔ of the sandwiches were ham.","How many were ham?"],
+        "image":"https://quizizz.com/media/resource/gs/quizizz-media/questions/L2FwcGhvc3RpbmdfcHJvZC9ibG9icy9BRW5CMlVvYy02SXZTcHRqZFMtVkJJUFU4eEg5WlFTUUloWHdDYURuMTNZSHZGTHgweUVqTmxmc0xnS3RJLVNTeEZZc3lMQjBvMVR1eG1WblNCbWxJbHBEX3M2S1pyNmEyUS44Z1FIZ1kzV3phMW4xSE1T?w=900&h=900",
+        "options":[
+          { "text": "12", "isImage": false },
+          { "text": "2", "isImage": false },
+          { "text": "4", "isImage": false },
+          { "text": "8", "isImage": false }
+        ],
+        "answer":3
+      },
+      {
+        "category": "Measurement and Data",
+        "question":["A square has a perimeter of 24","What is the length of each of its sides?"],
+        "options":[
+          {"text":"4cm"},
+          {"text":"24cm"},
+          {"text":"12cm"},
+          {"text":"6cm"}
+        ],
+        "answer":3
+      },
+      {
+        "category": "Measurement and Data",
+        "question":["Convert the given measures to centimeters.","2 km"],
+        "options":[
+          {"text":"20cm"},
+          {"text":"2000cm"},
+          {"text":"200,000cm"},
+          {"text":".20cm"}
+        ],
+        "answer":2
+      },
+      {
+        "category": "Measurement and Data",
+        "question":["If angle ABD=107°", "what is the measure of angle ABC?"],
+        "image":"https://quizizz.com/media/resource/gs/quizizz-media/questions/L2FwcGhvc3RpbmdfcHJvZC9ibG9icy9BRW5CMlVvMkNsRGdYVU9YZUJweFVZc2RZbVdONnl0UUo4Z0Jib0tyOHhDRThNdW1LMnVDenZtR3MxaUJ2UE1GS3N4QzVUOHZjR09uV084UGdJbTdQcGZpLXlyeHBHenRPZy5PLU53T2FBUThBcG1sdF8w?w=900&h=900",
+        "options":[
+          {"text":"37°"},
+          {"text":"70°"},
+          {"text":"70°"},
+          {"text":"60°"}
+        ],
+        "answer":1
+      },
+      {
+        "category": "Geometry",
+        "question":["What is a protractor ?"],
+        "options":[
+          {"text":"A thing","image":"false"},
+          {"text":"A shared end point of the sides of an angle", "isImage": "false"},
+          {"text":"A tool used to measure an angle", "isImage": "false"},
+          {"text":"Angle with a measure", "isImage": "false"}
+        ],
+        "answer":2
+      },
+      {
+        "category": "Geometry",
+        "question":["What are parallel lines?"],
+        "image":"https://quizizz.com/media/resource/gs/quizizz-media/questions/L2FwcGhvc3RpbmdfcHJvZC9ibG9icy9BRW5CMlVxeS1Kc0NuZlk4NFFZbHp0Z09WUmw1dFBlVjdSQnhnUFlfelJ3MzJ5bjVEUG9UX3N6eVI2VVE2NnFrRVR2aUpIM3pxTTB3NlhWcG5jM1oxTWJJSG1vdWNQLXdTc20zUS1LU3ZPTmpHUl9DMEtiRThFby5GbktpYXBYQ09lYlNDSWZ3?w=900&h=900",
+        "options":[
+          {"text":"Lines that form square corners"},
+          {"text":"lines that never intersect"},
+          {"text":"lines that pass through the same point"},
+          {"text":"lines that curve on an angle"}
+        ],
+        "answer":1
+      },
+      {
+        "category": "Geometry",
+        "question":["Acute angles measure less than ___ degrees."],
+        "image":"https://quizizz.com/media/resource/gs/quizizz-media/quizzes/73084fbd-9dd0-4952-bc44-2f9f89ba22b4?w=900&h=900",
+        "options":[
+          {"text":"90","image":"false"},
+          {"text":"180","image":"false"},
+          {"text":"360","image":"false"},
+          {"text":"0","image":"false"}
+        ],
+        "answer":0
+      }
+
+    ]
+  }
+  
+  
+  
+  
+  
+  
+  

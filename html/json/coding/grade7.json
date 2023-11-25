@@ -1,0 +1,181 @@
+{
+  "puzzles": [
+    {
+      "category": "Logical Reasoning",
+      "question": ["In classical logic, what is the Law of the Excluded Middle?"],
+      "options": [
+      { "text": "Every proposition is either true or false.", "isImage": false },
+      { "text": "Every proposition can be both true and false.", "isImage": false },
+      { "text": "Some propositions are neither true nor false.", "isImage": false },
+      { "text": "Some propositions are always true.", "isImage": false }
+      ],
+      "answer": 0
+    },
+      
+    {
+      "category": "Logical Reasoning",
+      "question": ["Which famous paradox is related to a statement that claims", "'This statement is false'?"],
+      "options": [
+      { "text": "Liar Paradox", "isImage": false },
+      { "text": "Zeno's Paradox", "isImage": false },
+      { "text": "Rusells Paradox", "isImage": false },
+      { "text": "Barber Paradox", "isImage": false }
+      ],
+      "answer": 0
+    },
+    {
+      "category": "Logical Reasoning",
+      "question": ["If you rearrange the letters in the word 'SILENT'", "what word would you form?"],
+      "options":[
+        { "text": "TINSEL", "isImage": false },
+        { "text": "LISTEN", "isImage": false },
+        { "text": "INLETS", "isImage": false },
+        { "text": "SLIENT", "isImage": false }
+      ],
+      "answer": 1
+    },
+
+    {
+      "category": "Logical Reasoning",
+      "question": ["In symbolic logic", "what does the symbol '⇒' represent?"],
+      "options":[
+        { "text": "Logical AND", "isImage": false },
+        { "text": "Logical OR", "isImage": false },
+        { "text": "Logical NOT", "isImage": false },
+        { "text": "Implication (If....then...)", "isImage": false }
+      ],
+      "answer": 3
+    },
+
+    {
+      "category": "Logical Reasoning",
+      "question":["Which famous mathematician developed the concept of 'proof by contradiction'?"],    
+      "options":[
+
+        { "text": "Euclid","isImage": false },
+        { "text": "Pythagoras", "isImage": false },
+        { "text": "Archimedes", "isImage": false },
+        { "text": "Fermat", "isImage": false }
+      ],
+      "answer": 0
+    },
+      
+    {
+      "category": "Analytical Thinking",
+      "question": ["If a car travels 60 miles at a constant speed of 30 miles per hour", "how long does it take to complete the journey?"],
+      "options": [
+        { "text": "1 hour", "isImage": false },
+        { "text": "2 hours", "isImage": false },
+        { "text": "3 hours", "isImage": false },
+        { "text": "4 hours", "isImage": false }
+      ],
+      "answer": 1
+    },
+    {
+      "category": "Analytical Thinking",
+      "question": ["What is the next number in the Fibonacci sequence after", "0, 1, 1, 2, 3, 5, 8, 13...?"],
+      "options": [
+        { "text": "18", "isImage": false },
+        { "text": "21", "isImage": false },
+        { "text": "26", "isImage": false },
+        { "text": "34", "isImage": false }
+      ],
+      "answer": 3
+    },
+    {
+      "category": "Analytical Thinking",
+      "question": ["If a leap year occurs every 4 years", "how many leap years are there in a century (100 years)?"],
+      "options": [
+        { "text": "24", "isImage": false },
+        { "text": "25", "isImage": false },
+        { "text": "26", "isImage": false },
+        { "text": "27", "isImage": false }
+      ],
+      "answer": 2
+    },
+    {
+      "category": "Analytical Thinking",
+      "question": ["What is the product of the first 10 prime numbers?"],
+      "options": [
+        { "text": "210", "isImage": false },
+        { "text": "1,030", "isImage": false },
+        { "text": "29,210", "isImage": false },
+        { "text": "646,969,3220", "isImage": false }
+      ],
+      "answer": 3
+    },
+    {
+      "category": "Analytical Thinking",
+      "question": ["If a rectangle has a length of 12 units and a diagonal of 15 units", "what is its width?"],
+      "options": [
+        { "text": "3 units", "isImage": false },
+        { "text": "4 units", "isImage": false },
+        { "text": "5 units", "isImage": false },
+        { "text": "6 units", "isImage": false }
+      ],
+      "answer": 1
+    },
+    {
+      "category": "Basic Coding Concepts",
+      "question": ["In Python, what is the purpose of the 'lambda' function?"],
+      "options": [
+        { "text": "To define a multi-line function", "isImage": false },
+        { "text": "To create anonymous functions", "isImage": false },
+        { "text": "To execute a loop", "isImage": false },
+        { "text": "To declare a class", "isImage": false }
+      ],
+      "answer": 1
+    },
+    {
+      "category": "Basic Coding Concepts",
+      "question": ["what is the time complexity of the quicksort algorithm in its average case?"],
+      "options": [
+        { "text": "O(n)", "isImage": false },
+        { "text": "O(n log n)", "isImage": false },
+        { "text": "O(n^2)", "isImage": false },
+        { "text": "O(log n)", "isImage": false }
+      ],
+      "answer": 1
+    },      
+    {
+      "category": "Basic Coding Concepts",
+      "question": ["In object-oriented programming, what is encapsulation?"],
+      "options": [
+        { "text": "The process of defining a class", "isImage": false },
+        { "text": "The process of hiding implementation details and exposing a public interface", "isImage": false },
+        { "text": "The process of inheritance", "isImage": false },
+        { "text": "The process of polymorphism", "isImage": false }
+      ],
+      "answer": 1
+    },
+    {
+      "category": "Basic Coding Concepts",
+      "question": ["which data structure is typically used to implement a queue in computer science?"],
+      "options": [
+        { "text": "stack", "isImage": false },
+        { "text": "Linked List", "isImage": false },
+        { "text": "Array", "isImage": false },
+        { "text": "Hash Table", "isImage": false }
+      ],
+      "answer": 1
+    },
+    {
+      "category": "Basic Coding Concepts",
+      "question": ["In HTML, which tag is used to define the structure of an HTML document", "including the document's title and metadata?"],
+      "options": [
+        { "text": "<head>", "isImage": false },
+        { "text": "<title>","isImage": false },
+        { "text": "<meta>", "isImage": false },
+        { "text": "<html>", "isImage": false }
+      ],
+      "answer": 0
+    }
+
+  ]
+}
+
+
+
+
+
+

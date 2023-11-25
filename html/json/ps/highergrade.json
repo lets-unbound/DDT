@@ -1,0 +1,171 @@
+{
+    "puzzles": [
+      {
+        "category": "Number and Quantity",
+        "question": ["Which set is in descending order?"],
+        "options": [
+          { "text": "15%  .45  9/10", "isImage": false },
+          { "text": ".45  15%  9/10", "isImage": false },
+          { "text": "9/10  15%  .45", "isImage": false },
+          { "text": "9/10  .45  15%", "isImage": false }
+        ],
+        "answer": 3
+      },
+      {
+        "category": "Number and Quantity",
+        "question": ["Simplify the expression: 3x²⋅x²="],
+        "options": [
+          { "text": "3x", "isImage": false },
+          { "text": "3x²⁺²", "isImage": false },
+          { "text": "3x⁴", "isImage": false }
+        ],
+        "answer": 2
+      },
+      {
+        "category": "Number and Quantity",
+        "question": ["(5³x²y⁴)⁰"],
+        "options": [
+          { "text": "5xy", "isImage": false },
+          { "text": "1", "isImage": false },
+          { "text": "0", "isImage": false },
+          { "text": "5", "isImage": false }
+        ],
+        "answer": 1
+      },
+      {
+        "category": "Algebra",
+        "question": ["( 5p³ - 2p² + 7p) + ( - 5p² + 2p + 8 )"],
+        "options": [
+          { "text": "5 p³ - 7p² + 9p +8", "isImage": false },
+          { "text": "5p³ + 7p -9p - 8", "isImage": false },
+          { "text": "5p³ - 3p² - 5p + 8", "isImage": false },
+          { "text": "5p³ - 7p² + 5p + 8", "isImage": false }
+        ],
+        "answer": 0
+      },
+      {
+        "category": "Algebra",
+        "question":["If P(a) = a² - 2a + 5","then P(2) is"],
+        "options":[
+          { "text": "5", "isImage": false },
+          { "text": "13", "isImage": false },
+          { "text": "-5", "isImage": false },
+          { "text": "-13", "isImage": false }
+        ],
+        "answer":0
+      },
+  
+      {
+        "category": "Algebra",
+        "question":["Degree of the polynomial","x³ _ 4 x²yz³ + z²y² is"],
+        "options":[
+          { "text": "3", "isImage": false },
+          { "text": "6", "isImage": false },
+          { "text": "5", "isImage": false },
+          { "text": "4", "isImage": false }
+        ],
+        "answer":1
+      },
+      {
+        "category": "Functions",
+        "question":["What is x", "if f(x) = -1?"],
+        "image":"https://quizizz.com/media/resource/gs/quizizz-media/questions/L2FwcGhvc3RpbmdfcHJvZC9ibG9icy9BRW5CMlVxVHhMcHBDU3owdllMWUJ5cFd3MjNrbHJkdnRDOG8tMEVpLWVJT2hZc0psRHdCaEVkV0dmclJXY1ExNldNYmRIc2FNUDViMm1OSXdLTU5KVWlscTBSOFV1T19EUS5EYzZ5X1lxa1g0N3haWmlB?w=200&h=200",
+        "options":[
+          { "text": "4"},
+          { "text": "0"},
+          { "text": "3"},
+          { "text": "6"}
+        ],
+        "answer":3
+      },
+      {
+        "category": "Functions",
+        "question":["What is the domain of the graph?"],
+        "image":"https://quizizz.com/media/resource/gs/quizizz-media/questions/L2FwcGhvc3RpbmdfcHJvZC9ibG9icy9BRW5CMlVyQlB3RGJUNk1odldNN0Vsb01xcGxQZzJUZjBBWkxrS0xCTlV5bnpUMkN6TFNQdFdaUDFrYUFQNkk3blV5OHFjZndWU1EtcWFVS1pCdkhaVnRjS0RCUk00azcyb0JqcnNJZVlsM0dsQ0UyVEd4aldJWS5yOUI2S3daV3F3MTNtS2px?w=900&h=900",
+        "options":[
+          { "text": "-3 ≤ x ≤ 3", "isImage": false },
+          { "text": "3 ≤ x ≤ -3", "isImage": false },
+          {"text":"-2 ≤ x ≤ 10","isImage":false},
+          {"text":"-3 ≤ x ≤ 10","isImage":false}
+        ],
+        "answer":0
+      },
+      {
+        "category": "Functions",
+        "question":["Which ordered pair could you add to the following list of points to create a function?","(3, 5) (4, 9) (2, 5)"],
+        "options":[
+          {"text":"(3, 7)"},
+          {"text":"(4, 1) "},
+          {"text":"(1, 9)"},
+          {"text":"(2, 6)"}
+        ],
+        "answer":2
+      },
+      {
+        "category": "Modeling",
+        "question":["Vincent is trying to find how many seconds it will take a golf ball to get to its highest point after being hit on the golf course.",
+                    "Which one are we looking for?"],
+        "options":[
+          {"text":"x at vertex"},
+          {"text":"y at vertex"},
+          {"text":"positive zero"}
+        ],
+        "answer":0
+      },
+      {
+        "category": "Modeling",
+        "question":["Lee charges $3 for a basket and $2.50 for each pound of fruit picked at the orchard.",
+                    "Write an equation in y = mx + b form for the total cost of x pounds of fruit from the orchard."],
+        "options":[
+          {"text":"y = 3x + 2.5"},
+          {"text":"y = 2.50x + 3"},
+          {"text":"y = 2.50x"},
+          {"text":"y = 3x + 2.50"}
+        ],
+        "answer":1
+      },
+      {
+        "category": "Modeling",
+        "question":["Which equation represents the total cost of a repair by an electrician after x hours?",
+                    "An electrician charges $90 per hour plus a $50 traveling fee."],
+        "options":[
+          {"text":"y = 50 - 90x"},
+          {"text":"y = 90x + 50"},
+          {"text":"y = -50x + 90"},
+          {"text":"y = -90 - 50x"}
+        ],
+        "answer":3
+      },
+      {
+        "category": "Geometry",
+        "question":["What is a value called when it is much greater or lesser than most of the other values in the data set? "],
+        "image":"https://quizizz.com/media/resource/gs/quizizz-media/quizzes/9d5a5c39-a9cb-422f-864f-fc45edbb36c5?w=900&h=900",
+        "options":[
+          {"text":"133"},
+          {"text":"154"},
+          {"text":"200"},
+          {"text":"100"}
+        ],
+        "answer":0
+      },
+      {
+        "category": "Statistics and Probability",
+        "question":["When the data points do not cluster around a line","but do cluster to form another shape","the data has a..."],
+        "options":[
+          {"text":"Linear association"},
+          {"text":"Nonlinear association"},
+          {"text":"A line"},
+          {"text":"No association"}
+        ],
+        "answer":1
+      }
+
+    ]
+  }
+  
+  
+  
+  
+  
+  
+  

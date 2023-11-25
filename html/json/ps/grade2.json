@@ -1,0 +1,162 @@
+{
+    "puzzles": [
+      {
+        "category": "Operations And Algebraic Thinking",
+        "question": ["25-19 = ?"],
+        "options": [
+          { "text": "1", "isImage": false },
+          { "text": "5", "isImage": false },
+          { "text": "6", "isImage": false },
+          { "text": "6.5", "isImage": false }
+        ],
+        "answer": 2
+      },
+      {
+        "category": "Operations And Algebraic Thinking",
+        "question": ["Find 1 number that will fill in both blanks.",
+                    "8 = ______ + _______"],
+        "options": [
+          { "text": "2", "isImage": false },
+          { "text": "3", "isImage": false },
+          { "text": "4", "isImage": false },
+          { "text": "5", "isImage": false }
+        ],
+        "answer": 2
+      },
+      {
+        "category": "Number and Operations in Base Ten",
+        "question": ["Which symbol should we use in the following:","787......877"],
+        "options": [
+          {"text": "="},
+          {"text": "<"},
+          {"text": ">"},
+          {"text": ">>"}
+        ],
+        "answer": 1
+      },
+      {
+        "category": "Number and Operations in Base Ten",
+        "question": ["After writing the following numbers in ascending order","87, 78, 10, 67, 76",
+                    "it will be........."],
+        "options": [
+          {"text": "87, 67, 76, 78, 10"},
+          {"text": "10, 67, 76, 78, 87"},
+          {"text": "10, 76, 67, 78, 87"},
+          {"text": "87, 10, 78, 67, 76"}
+        ],
+        "answer": 1
+      },
+      {
+        "category": "Number and Operations in Base Ten",
+        "question":["What will come after 8999"],
+        "options":[
+          {"text":"9000"},
+          {"text":"89990"},
+          {"text":"8910"},
+          {"text":"9801"}
+        ],
+        "answer":0
+      },
+  
+      {
+        "category": "Measurement and Data",
+        "question":["How many people were surveyed in all?"],
+        "image":"https://quizizz.com/media/resource/gs/quizizz-media/quizzes/260b7df4-d26a-401d-a23f-b387e2a4cf36?w=900&h=900",
+        "options":[
+          {"text":"10"},
+          {"text":"16"},
+          {"text":"20"},
+          {"text":"4"}
+        ],
+        "answer":2
+      },
+      {
+        "category": "Measurement and Data",
+        "question":["How many students chose Math as their favorite school subject"],
+        "image":"https://quizizz.com/media/resource/gs/quizizz-media/questions/L2FwcGhvc3RpbmdfcHJvZC9ibG9icy9BRW5CMlVveXFScXo2aVgtZVdFcGxGX3ZyRWo5djlEa2hyczlmNUw1UnZ6eVpESzhwN21XNUc0c0xlZ1dTUWZMQ0thRVlMX3RjUGh3bS1YamI5Rl9NM1FjbGJKX0xoNGkxdXNMTHdMNXZ4U1RURjVjZnl4bzFUcy5felpGQXNtd25iNlNlTnN4?w=900&h=900",
+        "options":[
+          {"text":"5"},
+          {"text":"10"},
+          {"text":"7"},
+          {"text":"3"}
+        ],
+        "answer":2
+      },
+      {
+        "category": "Measurement and Data",
+        "question":["The capacity of the jug shown in the picture is ___"],
+        "image":"https://quizizz.com/media/resource/gs/quizizz-media/quizzes/bc76bf9a-56f7-421a-907a-c0678d5d2c43?w=900&h=900",
+        "options":[
+          {"text":"500mL"},
+          {"text":"650mL"},
+          {"text":"700mL"},
+          {"text":"550mL"}
+        ],
+        "answer":0
+      },
+      {
+        "category": "Measurement and Data",
+        "question":["What would be the best tool to measure length of a book?"],
+        "options":[
+          {"text":"ruler"},
+          {"text":"balance"},
+          {"text":"hammer"}
+        ],
+        "answer":0
+      },
+      {
+        "category": "Measurement and Data",
+        "question":["How much longer is the key than the paper clip?"],
+        "image":"https://quizizz.com/media/resource/gs/quizizz-media/questions/f75bbf6a-b3f7-4ead-b4a3-9e1aef85c31a?w=900&h=900",
+        "options":[
+          {"text":"3cm"},
+          {"text":"2cm"},
+          {"text":"4cm"},
+          {"text":"1cm"}
+        ],
+        "answer":1
+      },
+      {
+        "category": "Geometry",
+        "question":["Cube has ......... corners."],
+        "options":[
+          {"text":"2"},
+          {"text":"4"},
+          {"text":"6"},
+          {"text":"8"}
+        ],
+        "answer":3
+      },
+      {
+        "category": "Geometry",
+        "question":["How many vertices?"],
+        "image":"https://quizizz.com/media/resource/gs/quizizz-media/questions/L2FwcGhvc3RpbmdfcHJvZC9ibG9icy9BRW5CMlVvODN2X2VaV0lCOEJwU1Ezdk5OZUFBb2Y1dlR5blVtNGVjbEt0aGpsenBBWTdneGl2Q3FORzBVVGg2QXJER2JmeFhJMzhtSDViRDZUaXpoOWJCT2M1ck1hQWtUdy5EUWMwb3IzQ2NBM3d3SWlV?w=900&h=900",
+        "options":[
+          {"text":"2"},
+          {"text":"8"},
+          {"text":"4"},
+          {"text":"6"}
+        ],
+        "answer":2
+      },
+
+      {
+        "category": "Geometry",
+        "question":["What shape has 0 edges, 0 faces, and 0 vertices?"],
+        "options":[
+          {"text":"cone", "isImage": true, "image":"https://quizizz.com/media/resource/gs/quizizz-media/quizzes/897b3bf7-507f-47ca-959c-3fc7a1e8b5f5?w=900&h=900"},
+          {"text":"square", "isImage": true, "image":"https://quizizz.com/media/resource/gs/quizizz-media/quizzes/63d4abf6-c05d-4b6e-8447-a449306dfca4?w=900&h=900"},
+          {"text":"circle", "isImage": true, "image":"https://quizizz.com/media/resource/gs/quizizz-media/quizzes/fb3fea2e-614b-4b75-b11d-0238ea711b0b?w=200&h=200"},
+          {"text":"cylinder", "isImage": true,"image":"https://quizizz.com/media/resource/gs/quizizz-media/quizzes/f4a02d75-f1cd-4c02-abab-99797fa2792d?w=900&h=900"}
+        ],
+        "answer":2
+      }
+    ]
+  }
+  
+  
+  
+  
+  
+  
+  

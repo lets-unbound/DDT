@@ -1,0 +1,173 @@
+{
+  "puzzles": [
+    {
+      "category": "Logical Reasoning",
+      "question": ["Which of these animals can swim?"],
+      "options": [
+        { "text": "Elephant", "isImage": false },
+        { "text": "Fish", "isImage": false },
+        { "text": "Lion", "isImage": false },
+        { "text": "Giraffe", "isImage": false }
+      ],
+      "answer": 1
+    },
+    {
+      "category": "Logical Reasoning",
+      "question": ["Which month comes after May?"],
+      "options": [
+        { "text": "March", "isImage": false },
+        { "text": "June", "isImage": false },
+        { "text": "July", "isImage": false },
+        { "text": "April", "isImage": false }
+      ],
+      "answer": 1
+    },
+    {
+      "category": "Logical Reasoning",
+      "question": ["Which object is used for sleeping?"],
+      "options": [
+        { "text": "Shoe", "isImage": false },
+        { "text": "Bed", "isImage": false },
+        { "text": "Bicycle", "isImage": false },
+        { "text": "Hat", "isImage": false }
+      ],
+      "answer": 1
+    },
+    {
+      "category": "Logical Reasoning",
+      "question": ["What comes after Tuesday?"],
+      "options": [
+        { "text": "Friday", "isImage": false },
+        { "text": "Wednesday", "isImage": false },
+        { "text": "Monday", "isImage": false },
+        { "text": "Sunday", "isImage": false }
+      ],
+      "answer": 1
+    },
+    {
+      "category": "Analytical Thinking",
+      "question":[ "If you have 4 apples and you give 2 to your friend, how many apples do you have left?"],
+      "options": [
+        { "text": "2", "isImage": false },
+        { "text": "4", "isImage": false },
+        { "text": "1", "isImage": false },
+        { "text": "3", "isImage": false }
+      ],
+      "answer": 0
+    },
+    {
+      "category": "Analytical Thinking",
+      "question": ["Which shape has four equal sides?"],
+      "options": [
+        { "text": "Square", "isImage": false },
+        { "text": "Circle", "isImage": false },
+        { "text": "Triangle", "isImage": false },
+        { "text": "Rectangle", "isImage": false }
+      ],
+      "answer": 0
+    },
+    {
+      "category": "Analytical Thinking",
+      "question": ["Which shape has six equal sides?"],
+      "options": [
+      { "text": "Hexagon", "isImage": false },
+      { "text": "Circle", "isImage": false },
+      { "text": "Pentagon", "isImage": false },
+      { "text": "Octagon", "isImage": false }
+      ],
+      "answer": 0
+    },
+    {
+      "category": "Analytical Thinking",
+      "question": ["What is the result of adding 7 and 9?"],
+      "options": [
+      { "text": "14", "isImage": false },
+      { "text": "6", "isImage": false },
+      { "text": "16", "isImage": false },
+      { "text": "11", "isImage": false }
+      ],
+      "answer": 2
+    },
+    {
+      "category": "Analytical Thinking",
+      "question": ["If you have 5 cookies and you eat 2 of them, how many cookies do you have left?"],
+      "options": [
+      { "text": "2", "isImage": false },
+      { "text": "5", "isImage": false },
+      { "text": "1", "isImage": false },
+      { "text": "3", "isImage": false }
+      ],
+      "answer": 3
+    },
+    {
+      "category": "Basic Coding Concepts",
+      "question": ["What is the name of a computer program that helps you browse the internet?"],
+      "options": [
+        { "text": "Mailbox", "isImage": false },
+        { "text": "Browser", "isImage": false },
+        { "text": "Calculator", "isImage": false },
+        { "text": "Camera", "isImage": false }
+      ],
+      "answer": 1
+    },
+    {
+      "category": "Basic Coding Concepts",
+      "question": ["If you want to make a computer repeat a task several times, what structure do you use?"],
+      "options": [
+        { "text": "Loop", "isImage": false },
+        { "text": "Function", "isImage": false },
+        { "text": "Variable", "isImage": false },
+        { "text": "Condition", "isImage": false }
+      ],
+      "answer": 0
+    },
+
+    {
+      "category": "Basic Coding Concepts",
+      "question": ["Which programming construct is used to store a piece of data in a program?"],
+      "options": [
+      { "text": "Loop", "isImage": false },
+      { "text": "Function", "isImage": false },
+      { "text": "Variable", "isImage": false },
+      { "text": "Condition", "isImage": false }
+      ],
+      "answer": 2
+    },
+      
+    {
+      "category": "Basic Coding Concepts",
+      "question": ["What is the term for a named storage location in a program that holds a value?"],
+      "options": [
+      { "text": "Loop", "isImage": false },
+      { "text": "Function", "isImage": false },
+      { "text": "Variable", "isImage": false },
+      { "text": "Condition", "isImage": false }
+      ],
+      "answer": 2
+    },
+      
+    {
+      "category": "Basic Coding Concepts",
+      "question": ["Which programming construct is used to define a reusable piece of code that performs a specific task?"],
+      "options": [
+      { "text": "Loop", "isImage": false },
+      { "text": "Function", "isImage": false },
+      { "text": "Variable", "isImage": false },
+      { "text": "Condition", "isImage": false }
+      ],
+      "answer": 1
+    },
+      
+    {
+      "category": "Basic Coding Concepts",
+      "question": ["To make a decision in a program based on a certain condition, which programming construct do you use?"],
+      "options": [
+      { "text": "Loop", "isImage": false },
+      { "text": "Function", "isImage": false },
+      { "text": "Variable", "isImage": false },
+      { "text": "Condition", "isImage": false }
+      ],
+      "answer": 3
+    }
+  ]
+}

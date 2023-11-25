@@ -1,0 +1,46 @@
+@media only screen and (max-width:1600px){
+    body{
+        text-align: center;
+    }
+ 
+
+   h1{
+    font-size: 40px;
+   }
+   
+}
+
+
+@media only screen and (max-width:981px){
+     
+
+    h1{
+        display: none;
+    }
+
+    .img2{
+        width: 35%;
+        margin: 0 auto;
+     
+    }
+  
+}
+
+
+
+@media only screen and (max-width:600px){
+   
+
+    h1{
+        display: none;
+    }
+
+    .img2{
+        width: 45%;
+        margin: 0 auto;
+     
+    }
+
+   
+}
+

@@ -1,0 +1,181 @@
+{
+    "puzzles": [
+      {
+        "category": "Ratios and Proportional Relationships",
+        "question": ["If there are 5 boys and 7 girls","write the ratio of girls to boys."],
+        "options": [
+          { "text": "5 to 7", "isImage": false },
+          { "text": "7 to 5", "isImage": false },
+          { "text": "5 to 12", "isImage": false },
+          { "text": "7 to 12", "isImage": false }
+        ],
+        "answer": 1
+      },
+      {
+        "category": "Ratios and Proportional Relationships",
+        "question": ["What is an equivalent ratio to 3/4?"],
+        "options": [
+          { "text": "1/4", "isImage": false },
+          { "text": "4/5", "isImage": false },
+          { "text": "12/16", "isImage": false },
+          { "text": "14/18", "isImage": false }
+        ],
+        "answer": 2
+      },
+      {
+        "category": "Ratios and Proportional Relationships",
+        "question": ["Solve for C in the table."],
+        "image":"https://quizizz.com/media/resource/gs/quizizz-media/questions/L2FwcGhvc3RpbmdfcHJvZC9ibG9icy9BRW5CMlVyTUxla2preHk4S29EQ1pVdmNMamhuR3RwTE1VdEdFaW5ZVGJxUU5qSGl6QktDSWp5R0tOd056VS11R2FFRWxnc1dCUDc0QzdGVkVxcEJadld2NXhBOXhhcVp4Zy4wTTVWR2s2OG9qYjdEWjZu?w=200&h=200",
+        "options": [
+          { "text": "c=40", "isImage": false },
+          { "text": "c=10", "isImage": false },
+          { "text": "c=9", "isImage": false },
+          { "text": "c=45", "isImage": false }
+        ],
+        "answer": 0
+      },
+      {
+        "category": "The Number System",
+        "question": ["(-2)(-4)+92"],
+        "options": [
+          { "text": "73", "isImage": false },
+          { "text": "81", "isImage": false },
+          { "text": "26", "isImage": false },
+          { "text": "89", "isImage": false }
+        ],
+        "answer": 3
+      },
+      {
+        "category": "The Number System",
+        "question":["What rule do you use when you multiply or divide two negative numbers?"],
+        "options":[
+          { "text": "Negative answer", "isImage": false },
+          { "text": "Positive answer", "isImage": false }
+        ],
+        "answer":1
+      },
+  
+      {
+        "category": "The Number System",
+        "question":["What is the opposite of 8"],
+        "options":[
+          { "text": "8", "isImage": false },
+          { "text": "-8", "isImage": false },
+          { "text": "-16", "isImage": false },
+          { "text": "16", "isImage": false }
+        ],
+        "answer":1
+      },
+      {
+        "category": "Expressions and Equations",
+        "question":["Using a Factor Tree, find the prime factorization of 54."],
+        "options":[
+          { "text": "3²x6", "isImage": false },
+          { "text": "3³x2", "isImage": false },
+          { "text": "2³x3", "isImage": false },
+          { "text": "9x6", "isImage": false }
+        ],
+        "answer":1
+      },
+      {
+        "category": "Expressions and Equations",
+        "question":["What is the solution of d/5 = 10"],
+        "options":[
+          { "text": "2", "isImage": false },
+          { "text": "15", "isImage": false },
+          { "text": "5", "isImage": false },
+          { "text": "50", "isImage": false }
+        ],
+        "answer":3
+      },
+      {
+        "category": "Expressions and Equations",
+        "question":["Janeen's mother is 47. She is 26 years older than Janeen. Which equation can be used to find Janeen's age j?"],
+        "options":[
+          { "text": "j + 26 = 47", "isImage": false },
+          { "text": "26j = 47", "isImage": false },
+          { "text": "j - 26 =47", "isImage": false },
+          { "text": "47j = 26", "isImage": false }
+        ],
+        "answer":0
+      },
+      {
+        "category": "Geometry",
+        "question":["Calculate the area of the figure."],
+        "image":"https://quizizz.com/media/resource/gs/quizizz-media/questions/L2FwcGhvc3RpbmdfcHJvZC9ibG9icy9BRW5CMlVxQzRRX0tnRVQyaUhwWUsyZzRnT04wOVo0a29MUU1jVGx4QXg2dmhuQ1FDM1U4QUdCb1F3TlFoMHpkQ2Q5ejROMkx5VTVkMmQycmxqUndad1BQc3N1SlJMVEl1dy5rZHQ0Q2p4a3piYUtwOGVN?w=900&h=900",
+        "options":[
+          {"text":"126 ft²"},
+          {"text":"39 ft2"},
+          {"text":"156 ft2"},
+          {"text":"80 ft2"}
+        ],
+        "answer":0
+      },
+      {
+        "category": "Geometry",
+        "question":["Find the area of the parallelogram."],
+        "image":"https://quizizz.com/media/resource/gs/quizizz-media/questions/L2FwcGhvc3RpbmdfcHJvZC9ibG9icy9BRW5CMlVvcnBMeXd0R1ZwU1F0S05rRTRIdGx0YXJWcU9zeGJGVjlnV2tWNlROQUN4UXhlS0o1ZXAwRkVjSmN0ZGhrak9BMkQzQkl4RTVTTm1VdGxtS1BlamRzdzA1NHZqdy5lUU5mTjU5RGxnSU05WXlM?w=900&h=900",
+        "options":[
+          {"text":"15.6 m2"},
+          {"text":"30.6 m2"},
+          {"text":"13.26 m2"},
+          {"text":"13-50....thats 47"}
+        ],
+        "answer":2
+      },
+      {
+        "category": "Geometry",
+        "question":["What is the surface area of this shape?"],
+        "image":"https://quizizz.com/media/resource/gs/quizizz-media/questions/L2FwcGhvc3RpbmdfcHJvZC9ibG9icy9BRW5CMlVwNDhrcmNtcGlrX1Jwc2hhV0dFVVdlR3JOanBTTmk4REltcmE2RndDeUVJOW5idnhYUkJaNjk5WGluSTZQa1VBaWF5VDZpdVhmRGZnT2lFWFRUTU0walZNYnB2NjNzNEV3NjJQWFIzRDRKMUJfNUlsdy5BeU5OdnczdFEwa0hXRzRj?w=900&h=900",
+        "options":[
+          {"text":"400 in²"},
+          {"text":"448 in²"},
+          {"text":"176 in²"},
+          {"text":"338 in²"}
+        ],
+        "answer":2
+      },
+      {
+        "category": "Statistics and Probability",
+        "question":["On a 6-sided die, which is more likely?"],
+        "options":[
+          {"text":"Rolling an odd number","image":"false"},
+          {"text":"Rolling an even number", "isImage": "false"},
+          {"text":"They are all equally likely.", "isImage": "false"},
+          {"text":"Rolling a prime number", "isImage": "false"}
+        ],
+        "answer":2
+      },
+      {
+        "category": "Statistics and Probability",
+        "question":["Find the median."],
+        "image":"https://quizizz.com/media/resource/gs/quizizz-media/quizzes/f57f3de4-5014-4784-9f7c-149e787818e6?w=900&h=900",
+        "options":[
+          {"text":"3.5"},
+          {"text":"3"},
+          {"text":"6"},
+          {"text":"2"}
+        ],
+        "answer":1
+      },
+      {
+        "category": "Statistics and Probability",
+        "question":["The number that occurs the most often in a list. There can be more than one mode, or no mode."],
+        "options":[
+          {"text":"Range","image":"false"},
+          {"text":"Median","image":"false"},
+          {"text":"Mode","image":"false"},
+          {"text":"Mean","image":"false"}
+        ],
+        "answer":2
+      }
+
+    ]
+  }
+  
+  
+  
+  
+  
+  
+  

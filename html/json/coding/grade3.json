@@ -1,0 +1,179 @@
+{
+    "puzzles": [
+      {
+        "category": "Logical Reasoning",
+        "question": ["Which of these fruits is yellow and known for being a curved shape?"],
+        "options": [
+        { "text": "Apple", "isImage": false },
+        { "text": "Banana", "isImage": false },
+        { "text": "Grapes", "isImage": false },
+        { "text": "Orange", "isImage": false }
+        ],
+        "answer": 1
+      },
+        
+      {
+        "category": "Logical Reasoning",
+        "question": ["Which of these objects is used for telling time?"],
+        "options": [
+        { "text": "Book", "isImage": false },
+        { "text": "Clock", "isImage": false },
+        { "text": "Chair", "isImage": false },
+        { "text": "Shoe", "isImage": false }
+        ],
+        "answer": 1
+      },
+      {
+        "category": "Logical Reasoning",
+        "question": ["Which of these shapes has all sides of equal length?"],
+        "options":[
+          { "text": "Rectangle", "isImage": false },
+          { "text": "Triangle", "isImage": false },
+          { "text": "Circle", "isImage": false },
+          { "text": "Square", "isImage": false }
+        ],
+        "answer": 3
+      },
+
+      {
+        "category": "Logical Reasoning",
+        "question": ["Which of these objects is used to measure temperature?"],
+        "options":[
+          { "text": "Thermometer", "isImage": false },
+          { "text": "Ruler", "isImage": false },
+          { "text": "Compass", "isImage": false },
+          { "text": "Magnifying glass", "isImage": false }
+        ],
+        "answer": 0
+      },
+
+      {
+        "category": "Logical Reasoning",
+        "question":["Which of these vehicles is used for flying in the sky?"],    
+        "options":[
+
+          { "text": "Car", "isImage": false },
+          { "text": "Boat", "isImage": false },
+          { "text": "Bicycle", "isImage": false },
+          { "text": "Airplane", "isImage": false }
+        ],
+        "answer": 3
+      },
+        
+      {
+        "category": "Analytical Thinking",
+        "question": ["There are three friends: Amy, Ben, and Chloe.","Amy is taller than Ben, but shorter than Chloe."," Who is the tallest among them?"],
+        "options": [
+          { "text": "Amy", "isImage": false },
+          { "text": "Ben", "isImage": false },
+          { "text": "Chloe", "isImage": false }
+        ],
+        "answer": 2
+      },
+      {
+        "category": "Analytical Thinking",
+        "question": ["Emma has more marbles than Jack, and Jack has more marbles than Sam. Who has the fewest marbles?"],
+        "options": [
+          { "text": "Emma", "isImage": false },
+          { "text": "Jack", "isImage": false },
+          { "text": "Sam", "isImage": false }
+        ],
+        "answer": 2
+      },
+      {
+        "category": "Analytical Thinking",
+        "question": ["Lily is wearing a red shirt, and Jake is wearing a blue shirt.", "What color shirt is Emily wearing if she always wears a color different from her friends?"],
+        "options": [
+          { "text": "Red", "isImage": false },
+          { "text": "Blue", "isImage": false },
+          { "text": "Green", "isImage": false }
+        ],
+        "answer": 2
+      },
+      {
+        "category": "Analytical Thinking",
+        "question": ["Which of these is a type of fruit?"],
+        "options": [
+          { "text": "Chair", "isImage": false },
+          { "text": "Orange", "isImage": false },
+          { "text": "Car", "isImage": false },
+          { "text": "Ball", "isImage": false }
+        ],
+        "answer": 1
+      },
+      {
+        "category": "Analytical Thinking",
+        "question": ["If you have 2 apples and you eat one, how many apples do you have left?"],
+        "options": [
+          { "text": "0", "isImage": false },
+          { "text": "1", "isImage": false },
+          { "text": "2", "isImage": false },
+          { "text": "3", "isImage": false }
+        ],
+        "answer": 1
+      },
+      {
+        "category": "Basic Coding Concepts",
+        "question": ["What is Coding used for?"],
+        "options": [
+          { "text": "To understand Humans better", "isImage": false },
+          { "text": "for building games and websites only", "isImage": false },
+          { "text": "To communicate with the computer", "isImage": false },
+          { "text": "To shutdown the computer", "isImage": false }
+        ],
+        "answer": 2
+      },
+      {
+        "category": "Basic Coding Concepts",
+        "question": ["What is the difference between coding and programming?"],
+        "options": [
+          { "text": "Coding focuses on writing code, while programming includes planning, designing, and testing.", "isImage": false },
+          { "text": "Coding and programming are often interchangeable, but programming can involve a broader scope beyond just writing code.", "isImage": false },
+          { "text": "Coding is about writing instructions, while programming encompasses the entire software development process.", "isImage": false },
+          { "text": "Coding is part of programming, with coding being the act of writing code instructions.", "isImage": false }
+        ],
+        "answer": 2
+      },      
+      {
+        "category": "Basic Coding Concepts",
+        "question": ["What is the difference between a 'for' loop and a 'while' loop?"],
+        "options": [
+          { "text": "'For' loop has a fixed number of iterations; 'while' loop continues while a condition is true.", "isImage": false },
+          { "text": "'For' loop includes initialization, condition, and increment; 'while' loop only needs a condition.", "isImage": false },
+          { "text": "'For' loop is ideal for known iterations; 'while' loop is suited for unknown or variable iterations.", "isImage": false },
+          { "text": "'For' loop is structured for counting; 'while' loop is flexible based on a condition.", "isImage": false }
+        ],
+        "answer": 1
+      },
+      {
+        "category": "Basic Coding Concepts",
+        "question": ["What does the computer speak?"],
+        "options": [
+          { "text": "Human language", "isImage": false },
+          { "text": "Machine language", "isImage": false },
+          { "text": "Animal Language", "isImage": false },
+          { "text": "None of these", "isImage": false }
+        ],
+        "answer": 1
+      },
+      {
+        "category": "Basic Coding Concepts",
+        "question": ["What is machine language converted to?"],
+        "options": [
+          { "text": "Assembly language.", "isImage": false },
+          { "text": "Source code.", "isImage": false },
+          { "text": "High-level programming language.", "isImage": false },
+          { "text": "Binary code.", "isImage": false }
+        ],
+        "answer": 3
+      }
+
+    ]
+  }
+  
+  
+  
+  
+  
+  
+  
