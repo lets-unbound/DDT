@@ -35,6 +35,12 @@ document.addEventListener("DOMContentLoaded", function () {
     const urlParams = new URLSearchParams(queryString);
     const testType = urlParams.get('test');
 
+    writeToExcel();
+
+    if (!testType) {
+      window.location = "../index.html";
+    }
+
     const welcomeHeading = document.getElementById("welcomeHeading");
     welcomeHeading.textContent = `Welcome to ${testType} Diagnostic Test`;
   
@@ -344,6 +350,7 @@ document.addEventListener("DOMContentLoaded", function () {
   
     // Function to display the final score
     function showResult() {
+      writeToExcel();
       container.style.display = 'none';
       
       b1=document.getElementById("b")
@@ -588,6 +595,43 @@ document.addEventListener("DOMContentLoaded", function () {
   
     
       generateChart()
+    }
+
+    // function to write data to excel
+    function writeToExcel() {
+      var url = 'https://docs.google.com/spreadsheets/d/1yWkdI7ommckn-WLfZMHddIQMbkx7IVttyP3WY3FkyMI/edit';
+
+      /* set up async GET request */
+      var req = new XMLHttpRequest();
+      req.open("GET", url, true);
+      req.responseType = "arraybuffer";
+
+      req.onload = function(e) {
+        var workbook = XLSX.read(req.response);
+        var dataToAdd = [{
+          "name": "abc",
+          "grade": "asd"
+        }]
+        var ws = workbook.Sheets["Sheet1"];
+        XLSX.utils.sheet_add_json(ws, dataToAdd, {origin: -1, skipHeader: true});
+
+        // XLSX.write(workbook, { bookType: "xlsx", type: "buffer" });
+        XLSX.writeFile(workbook, "sdsdfdf");
+      };
+
+      req.send();
+      /* download data into an ArrayBuffer object */
+      // fetch(url).then(res => {
+      //   return res.arrayBuffer();
+      // }).then(ab => {
+        // const ws = XLSX.read(ab);
+        // const aoa = [["abc", "wsss", "wsss"]]
+        // XLSX.utils.sheet_add_aoa(ws, aoa, {origin: -1});
+        // const wb = XLSX.utils.book_new();
+        // XLSX.utils.book_append_sheet(wb, ws, "Sheet1");
+        // XLSX.writeFile(ws, "sdsdfdf");
+        
+      // });
     }
     
     function formatTime(milliseconds) {
